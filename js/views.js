@@ -81,7 +81,7 @@ Demo.Views.Feed = Backbone.View.extend({
 							this.model.get("text") +
 							"</div>");
 		return this;
-	},
+	}
 });
 
 
